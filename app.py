@@ -72,12 +72,18 @@ def main():
             if len(faces) > 1:
                 st.write("Found {0} Faces in the image!".format(len(faces)))
             else:
-                st.write("Found {0} Faces in the image!".format(len(faces)))
+                st.write("Found {0} Face in the image!".format(len(faces)))
         else:
             st.write(f"""### Output""")
             st.write(
                 f"Couldn't find any face in the image. Please enter any other image."
             )
+        
+        st.write(
+            """
+            Made By **_Jaweria Batool_**
+            """
+        )
 
 
 if __name__ == "__main__":
