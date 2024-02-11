@@ -22,6 +22,9 @@ This is a Streamlit app that utilizes OpenCV's Haar cascades for face and eye de
    streamlit run app.py
    ```
 
+## Demo
+[Live Demo](https://face-detection-model-jb.streamlit.app/)
+
 ## Usage
 
 1. Once the app is running locally, visit the provided URL in your web browser.
