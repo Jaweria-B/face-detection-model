@@ -79,11 +79,11 @@ def main():
                 f"Couldn't find any face in the image. Please enter any other image."
             )
         
-        st.write(
-            """
-            Made By **_Jaweria Batool_**
-            """
-        )
+    st.write(
+        """
+        Made By **_Jaweria Batool_**
+        """
+    )
 
 
 if __name__ == "__main__":
