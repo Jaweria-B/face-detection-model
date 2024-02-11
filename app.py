@@ -78,12 +78,15 @@ def main():
             st.write(
                 f"Couldn't find any face in the image. Please enter any other image."
             )
-        
+    
     st.write(
         """
         Made By **_Jaweria Batool_**
         """
     )
+
+    # link to GitHub README file
+    st.write("For more information about how the app works, please check out the [GitHub README](https://github.com/Jaweria-B/penguins-specie-classification) file.")
 
 
 if __name__ == "__main__":
