@@ -86,7 +86,7 @@ def main():
     )
 
     # link to GitHub README file
-    st.write("For more information about how the app works, please check out the [GitHub README](https://github.com/Jaweria-B/penguins-specie-classification) file.")
+    st.write("For more information about how the app works, please check out the [GitHub README](https://github.com/Jaweria-B/face-detection-model) file.")
 
 
 if __name__ == "__main__":
